@@ -13,4 +13,4 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white&style=flat-square)](https://github.com/davidlapsleyio)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/davidlapsley)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:davidlapsleyio@gmail.com)
-[![X](https://img.shields.io/twitter/follow/davidlapsleyio)(https://x.com/davidlapsleyio)
+https://img.shields.io/twitter/follow/davidlapsleyio
