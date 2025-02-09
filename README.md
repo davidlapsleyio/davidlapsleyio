@@ -13,5 +13,5 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white&style=flat-square)](https://github.com/davidlapsleyio)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/davidlapsley)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:davidlapsleyio@gmail.com)
-[![Blog](https://img.shields.io/badge/-Website-black?logo=About.me&logoColor=white&style=flat-square)](https://davidlapsley.io)
+[![Blog](https://img.shields.io/badge/-blog-black?style=flat-square)](https://davidlapsley.io)
 [![X](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/davidlapsleyio)
