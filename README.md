@@ -6,7 +6,7 @@
   </em>
 </p>
 
-[![My Skills]([![My Skills](https://skillicons.dev/icons?i=aws,gcp,angular,ansible,apple,babel,bash,bitbucket,bootstrap,bsd,c,cpp,css,d3,debian,django,docker,flask,git,github,githubactions,gitlab,go,heroku,html,htmx,ai,java,js,jenkins,jquery,kubernetes,latex,linkedin,linux,md,mongodb,mysql,netxjs,nodejs,npm,openstack,postgres,postman,pycharm,py,r,rabbitmq,react,redhat,redis,sqlite,stackoverflow,sublime,selenium,tailwind,twitter,ubuntu,vim,vscode,webpack)](https://skillicons.dev))
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,angular,ansible,apple,babel,bash,bitbucket,bootstrap,bsd,c,cpp,css,d3,debian,django,docker,flask,git,github,githubactions,gitlab,go,heroku,html,htmx,ai,java,js,jenkins,jquery,kubernetes,latex,linkedin,linux,md,mongodb,mysql,netxjs,nodejs,npm,openstack,postgres,postman,pycharm,py,r,rabbitmq,react,redhat,redis,sqlite,stackoverflow,sublime,selenium,tailwind,twitter,ubuntu,vim,vscode,webpack)](https://skillicons.dev)
 
 ## Connect With Me
 
